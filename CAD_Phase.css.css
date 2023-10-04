@@ -1,0 +1,91 @@
+body{
+
+}
+hr{
+
+    border: 1px solid gold;
+
+}
+h3{
+    padding-top: 60px;
+    padding-left: 920px;
+}
+#title
+{
+    text-align: center;
+    background-color: lightgrey;
+    border-radius: 10px;
+}
+#quote
+{
+    float: right;
+    font-size: x-large;
+    color: maroon;
+}
+#athirapally_falls
+{
+    width: 600px;
+    height: 400px;
+    padding-top: 40px;
+    float: right;
+    margin: 4px;
+
+}
+#athirapally_falls_about
+{
+    font-size: x-large;
+    color: white;
+    font-weight: lighter;
+    font-family:'Times New Roman', Times, serif;
+    padding-top: 20px;
+
+}
+fieldset
+{
+    background-color: green;
+    margin-top: 85px;
+    width: 600px;
+    height: 300px;
+    margin-left: 40px;
+    border-radius: 15px;
+
+}
+#kochi_about
+{
+    font-size: xx-large;
+    font-size: x-large;
+    color: white;
+    font-weight: lighter;
+    font-family:'Times New Roman', Times, serif;
+    padding-top: 20px;
+
+
+}
+#vaigai_dam_about
+{
+    font-size: large;
+    color: white;
+    font-weight: lighter;
+    font-family:'Times New Roman', Times, serif;
+    padding-top: 20px;
+
+}
+#kodaikanal_about
+{
+    font-size: xx-large;
+    font-size: x-large;
+    color: white;
+    font-weight: lighter;
+    font-family:'Times New Roman', Times, serif;
+    padding-top: 20px;
+
+}
+#dindigul_rockfort_about
+{
+    font-size: x-large;
+    color: white;
+    font-weight: lighter;
+    font-family:'Times New Roman', Times, serif;
+    padding-top: 20px;
+
+}
